@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Theory"
             }
-          },
-          {
-            "id": "cd123a331eec2c9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README.md"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "Electronics/Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README.md"
+              "title": "Backlinks for Theory"
             }
           },
           {
@@ -127,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "Electronics/Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README.md"
+              "title": "Outgoing links from Theory"
             }
           },
           {
@@ -154,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "Electronics/Theory.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README.md"
+              "title": "Outline of Theory"
             }
           }
         ]
@@ -177,10 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd123a331eec2c9e",
+  "active": "ea1fb61d0b926bbd",
   "lastOpenFiles": [
-    "Electronics/Theory.md",
     "README.md.md",
+    "README.md",
+    "Electronics/Theory.md",
     "Images/Pasted image 20241109161711.png",
     "Electronics/Scherz.pdf",
     "Images/Pasted image 20241108182055.png",
